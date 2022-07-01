@@ -9,6 +9,7 @@ title: Software Center
 
 ###### Live versions
 [Arachna Online](https://247086.github.io/software/playable/Arachna.html)
+
 [Arachna 2 Online](https://247086.github.io/software/playable/Arachna2.html)
 
 
@@ -17,11 +18,14 @@ title: Software Center
 
 
 ###### Bundle downloads
-[Arachna Bundle](https://247086.github.io/software/downloads/Arachna%20Bundle%20Download.zip) ###### May not be up-to-date
-[Arachna Mods Bundle](https://247086.github.io/software/downloads/Arachna%20Mod%20Download.zip) ###### No official support provided
+[Arachna Bundle](https://247086.github.io/software/downloads/Arachna%20Bundle%20Download.zip) _may not be up-to-date_
+
+[Arachna Mods Bundle](https://247086.github.io/software/downloads/Arachna%20Mod%20Download.zip) _no official support provided_
 
 
 ###### Individual game downloads
-[Arachna 1](nan) ###### no release candidate
+[Arachna 1](nan) _no release candidate_
+
 [Arachna 2: Eternal Night (DLC)*](https://www.dropbox.com/s/zpfmpy8nmu4qu71/Arachna%202%20%2B%20DLC%201.0.8.html?dl=0)
+
 [Arachnia](nan) _no release candidate_
