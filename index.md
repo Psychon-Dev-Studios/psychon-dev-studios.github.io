@@ -23,15 +23,13 @@ title: Software Center
 *Downloads*
 ###### * Indicates a link to an external website
 
-[Arachna Bundle](https://247086.github.io/software/downloads/Arachna%20Bundle%20Download.zip)
+[Arachna Bundle](https://247086.github.io/software/downloads/Arachna%20Bundle%20Download.zip) ###### May not be up-to-date
 
-[Arachna Mods Bundle](https://247086.github.io/software/downloads/Arachna%20Mod%20Download.zip)
+[Arachna Mods Bundle](https://247086.github.io/software/downloads/Arachna%20Mod%20Download.zip) ###### No official support provided
+
+###### Individual game downloads
+[Arachna 1](nan) ###### no release candidate
 
 [Arachna 2: Eternal Night (DLC)*](https://www.dropbox.com/s/zpfmpy8nmu4qu71/Arachna%202%20%2B%20DLC%201.0.8.html?dl=0)
 
-
-
-#### Software Utilities
-###### * Indicates a link to an external website
-
-[Com Client _1.0.5.1_](https://github.com/247086/communicationService/releases/download/v1.0.5-patch1/1.0.5_fixed_inst.zip)
+[Arachnia](nan) ###### no release candidate
