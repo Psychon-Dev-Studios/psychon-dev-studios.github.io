@@ -3,29 +3,50 @@ title: Software Center
 ---
 
 # Welcome to the new Software Center!
-### Welcome! To get started, please use one of the links below to learn more, launch software, or download software.
-#### Items marked with a * link to an external website
+#### Welcome! To get started, please use one of the links below to learn more, launch software, or download software.
+##### Items marked with a * link to an external website
 
 
-###### Live versions
-[Arachna Online](https://247086.github.io/software/playable/Arachna.html)
+##### Live versions
+[Arachna Live](https://psychon-dev-studios.github.io/software/playable/Arachna.html) (v1.1.2)
 
-[Arachna 2 Online](https://247086.github.io/software/playable/Arachna2.html)
-
-
-###### Mods
-[Arachna 2: Camera Control Mod](https://247086.github.io/software/playable/A2%20Cam%20Control%20Mod.html)
+[Arachna 2 + DLC Live](https://psychon-dev-studios.github.io/software/playable/Arachna%202%201.0.1%20TW.html) (v1.1.0)
 
 
-###### Bundle downloads
-[Arachna Bundle](https://247086.github.io/software/downloads/Arachna%20Bundle%20Download.zip) _may not be up-to-date_
 
-[Arachna Mods Bundle](https://247086.github.io/software/downloads/Arachna%20Mod%20Download.zip) _no official support provided_
+##### Mods
+[Arachna 2: Camera Control Mod](https://psychon-dev-studios.github.io/software/playable/A2%20Cam%20Control%20Mod.html) _based on an old, unstable build_
 
 
-###### Individual game downloads
-[Arachna 1](nan) _no release candidate_
+##### Bundle downloads
+[Arachnid Bundle](https://psychon-dev-studios.github.io/software/downloads/Arachna%20Bundle%20Download.zip) _may not be up-to-date_
 
-[Arachna 2: Eternal Night (DLC)*](https://www.dropbox.com/s/zpfmpy8nmu4qu71/Arachna%202%20%2B%20DLC%201.0.8.html?dl=0)
+[Arachnid Mods Bundle](https://psychon-dev-studios.github.io/software/downloads/Arachna%20Mod%20Download.zip) _no official support provided_
 
-[Arachnia](nan) _no release candidate_
+
+
+##### Individual game downloads
+[Arachna]() _no release candidate_
+
+[[TW] Arachna 2: Eternal Night (A2 + DLC)](https://psychon-dev-studios.github.io/software/downloads/a2_dlc_1.1.0_tw.zip) _Includes both A2 and Eternal Night_
+
+[Arachnia]() _unreleased_
+
+
+#### Learn about the different compiled builds
+
+You might have noticed that, especially with our newer games, some are marked as "**TW**" and others are marked as "**HFR**". This refers to how we turned it into a runnable file - we use two different techniques. Here are the differences:
+
+|               | **TW Builds** | **HFR Builds** |
+ :-------------: | :-------------: | :-------------:  
+ **Controller Support** | **Yes** | **No** 
+ **Performance** | **Much better** | **Lower**
+ **Stability** | **High** | **Medium**
+ **Anti-Crash** | **Yes** | **No**
+ **Native Builds** | **Yes [1]** | **HTML Only**
+ **Auto-exit [2]** | **Yes** | **No**
+
+
+ **[1]** When provided, TW builds can support Windows (32-bit and 64-bit Electron), macOS, Linux (64-bit Electron or NW.js). Mobile devices, Raspberry Pi devices, and tablets do not have native support.
+
+ **[2]** Auto-exit allows the native window or browser tab to automatically close upon the game exiting. If this isn't supported, the game will exit, but the window / tab will not close.
