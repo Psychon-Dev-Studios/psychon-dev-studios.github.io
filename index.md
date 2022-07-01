@@ -32,4 +32,4 @@ title: Software Center
 
 [Arachna 2: Eternal Night (DLC)*](https://www.dropbox.com/s/zpfmpy8nmu4qu71/Arachna%202%20%2B%20DLC%201.0.8.html?dl=0)
 
-[Arachnia](nan) ###### no release candidate
+[Arachnia](nan) _no release candidate_
