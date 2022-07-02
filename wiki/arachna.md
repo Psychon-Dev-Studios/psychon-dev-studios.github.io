@@ -13,11 +13,13 @@ Arachna is a simple 2D platforming game. Jump from platform to platform, avoid r
 
 ### Compatibility
 **Native app support (.exe, .deb, etc):**
+
 | **Windows (.exe)** | **Linux (varies)** | **MacOS** | **iOS** | **Android (.apk)** | **ChromeOS (.deb)** | **Raspbian 10 (.deb)** |
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: | 
 | **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported**  | **Unsupported** | **Unsupported** |
 
 **Browser support:**
+
 | Browser | **Windows** | **Linux** | **MacOS** | **iOS** | **Android** | **ChromeOS** | **Raspbian 10** |
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: | 
 |**Chrome** | **Supported** | **Supported** | **Unknown** | **Unsupported** | **Unsupported**  | **Supported** | **Chromium Only** |
