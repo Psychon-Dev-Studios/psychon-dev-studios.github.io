@@ -13,17 +13,17 @@ Arachna is a simple 2D platforming game. Jump from platform to platform, avoid r
 
 ### Compatibility
 **Native app support (.exe, .deb, etc):**
-| **Windows (.exe)** | **Linux (varies)** | **MacOS** | **iOS** | **Android (.apk)** | **ChromeOS (.deb)** | **Raspbian 10 (.deb)**
+| **Windows (.exe)** | **Linux (varies)** | **MacOS** | **iOS** | **Android (.apk)** | **ChromeOS (.deb)** | **Raspbian 10 (.deb)** |
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: | 
-| **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported**  | **Unsupported** | **Unsupported**
+| **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported**  | **Unsupported** | **Unsupported** |
 
 **Browser support:**
-| Browser | **Windows** | **Linux** | **MacOS** | **iOS** | **Android** | **ChromeOS** | **Raspbian 10**
+| Browser | **Windows** | **Linux** | **MacOS** | **iOS** | **Android** | **ChromeOS** | **Raspbian 10** |
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: | 
-|**Chrome** | **Supported** | **Supported** | **Unknown** | **Unsupported** | **Unsupported**  | **Supported** | **Chromium Only**
-|**Edge** | **Supported** | **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported**  | **Unsupported** | **Unsupported**
-|**Firefox** | **Supported** | **Supported** | **Unknown** | **Unsupported** | **Unsupported**  | **Only with Linux** | **ESR Only**
-|**Safari** | **Unknown** | **Unsupported** | **Supported** | **Unsupported** | **Unsupported**  | **Unsupported** | **Unsupported**
+|**Chrome** | **Supported** | **Supported** | **Unknown** | **Unsupported** | **Unsupported**  | **Supported** | **Chromium Only** |
+|**Edge** | **Supported** | **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported**  | **Unsupported** | **Unsupported** |
+|**Firefox** | **Supported** | **Supported** | **Unknown** | **Unsupported** | **Unsupported**  | **Only with Linux** | **ESR Only** |
+|**Safari** | **Unknown** | **Unsupported** | **Supported** | **Unsupported** | **Unsupported**  | **Unsupported** | **Unsupported** |
 
 ### Features
 - 22 levels
