@@ -2,10 +2,10 @@
 title: Software Center
 ---
 
-# Welcome to the new Software Center!
-#### Welcome! To get started, please use one of the links below to learn more, launch software, or download software.
+## Psychon Development Studios - Software Center
 ##### Items marked with a * link to an external website
 
+_Looking for the wiki? Scroll to the bottom to see all wiki links!_
 
 ##### Live versions
 [Arachna Live](https://psychon-dev-studios.github.io/software/playable/Arachna.html) (v1.1.2)
@@ -50,3 +50,11 @@ You might have noticed that, especially with our newer games, some are marked as
  **[1]** When provided, TW builds can support Windows (32-bit and 64-bit Electron), macOS, Linux (64-bit Electron or NW.js). Mobile devices, Raspberry Pi devices, and tablets do not have native support.
 
  **[2]** Auto-exit allows the native window or browser tab to automatically close upon the game exiting. If this isn't supported, the game will exit, but the window / tab will not close.
+
+
+#### Access the wiki
+[Arachna Wiki](https://psychon-dev-studios.github.io/software/wiki/arachna) - learn all about the first game in the Arachnid Series
+
+[Arachna 2 Wiki](https://psychon-dev-studios.github.io/software/wiki/arachna2) - learn all about the second game in the Arachnid Series
+
+[Eternal Night Wiki](https://psychon-dev-studios.github.io/software/wiki/eternalNight) - learn all about Arachna 2's DLC, Eternal Night
