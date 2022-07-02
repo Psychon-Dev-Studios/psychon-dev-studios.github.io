@@ -53,8 +53,11 @@ You might have noticed that, especially with our newer games, some are marked as
 
 
 #### Access the wiki
-[Arachna Wiki](https://psychon-dev-studios.github.io/software/wiki/arachna) - learn all about the first game in the Arachnid Series
+## [Arachna Wiki](https://psychon-dev-studios.github.io/software/wiki/arachna)
+Learn more about Arachna
 
-[Arachna 2 Wiki](https://psychon-dev-studios.github.io/software/wiki/arachna2) - learn all about the second game in the Arachnid Series
+## [Arachna 2 Wiki](https://psychon-dev-studios.github.io/software/wiki/arachna2)
+Learn more about Arachna 2
 
-[Eternal Night Wiki](https://psychon-dev-studios.github.io/software/wiki/eternalNight) - learn all about Arachna 2's DLC, Eternal Night
+## [Eternal Night Wiki](https://psychon-dev-studios.github.io/software/wiki/eternalNight)
+Learn all about Arachna 2's DLC, Eternal Night
