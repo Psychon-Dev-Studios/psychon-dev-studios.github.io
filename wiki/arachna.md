@@ -14,21 +14,13 @@ Arachna is a simple 2D platforming game. Jump from platform to platform, avoid r
 ### Compatibility
 **Native app support (.exe, .deb, etc):**
 
-<<<<<<< Updated upstream
 | **Windows (.exe)** | **Linux (varies)** | **MacOS** | **iOS** | **Android (.apk)** | **ChromeOS (.deb)** | **Raspbian 10 (.deb)** |
-=======
-| **Windows (.exe)** | **Linux (varies)** | **MacOS** | **iOS** | **Android (.apk)** | **ChromeOS (.deb)** | **Raspbian 10 (.deb)**
->>>>>>> Stashed changes
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: | 
 | **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported**  | **Unsupported** | **Unsupported** |
 
 **Browser support:**
 
-<<<<<<< Updated upstream
 | Browser | **Windows** | **Linux** | **MacOS** | **iOS** | **Android** | **ChromeOS** | **Raspbian 10** |
-=======
-| Browser | **Windows** | **Linux** | **MacOS** | **iOS** | **Android** | **ChromeOS** | **Raspbian 10**
->>>>>>> Stashed changes
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: | 
 |**Chrome** | **Supported** | **Supported** | **Unknown** | **Unsupported** | **Unsupported**  | **Supported** | **Chromium Only** |
 |**Edge** | **Supported** | **Unsupported** | **Unsupported** | **Unsupported** | **Unsupported**  | **Unsupported** | **Unsupported** |
