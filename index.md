@@ -10,7 +10,7 @@ _Looking for the wiki? Scroll to the bottom to see all wiki links!_
 ##### Live versions
 [Arachna Live](https://psychon-dev-studios.github.io/software/playable/Arachna.html) (v1.1.2)
 
-[Arachna 2 + DLC Live](https://psychon-dev-studios.github.io/software/playable/Arachna%202%201.0.1%20TW.html) (v1.1.0)
+[Arachna 2 + DLC Live](https://psychon-dev-studios.github.io/software/playable/Arachna%202%201.1.0%20TW.html) (v1.1.0)
 
 
 
@@ -37,7 +37,7 @@ _Looking for the wiki? Scroll to the bottom to see all wiki links!_
 
 You might have noticed that, especially with our newer games, some are marked as "**TW**" and others are marked as "**HFR**". This refers to how we turned it into a runnable file - we use two different techniques. Here are the differences:
 
-|               | **TW Builds** | **HFR Builds** |
+| **Feature** | **TW Builds** | **HFR Builds** |
  :-------------: | :-------------: | :-------------:  
  **Controller Support** | **Yes** | **No** 
  **Performance** | **Much better** | **Lower**
@@ -51,6 +51,7 @@ You might have noticed that, especially with our newer games, some are marked as
 
  **[2]** Auto-exit allows the native window or browser tab to automatically close upon the game exiting. If this isn't supported, the game will exit, but the window / tab will not close.
 
+Native builds (.exe, .deb, etc) are always **TW** builds. HFR builds only support HTML.
 
 #### Access the wiki
 ## [Arachna Wiki](https://psychon-dev-studios.github.io/software/wiki/arachna)
@@ -61,3 +62,6 @@ Learn more about Arachna 2
 
 ## [Eternal Night Wiki](https://psychon-dev-studios.github.io/software/wiki/eternalNight)
 Learn all about Arachna 2's DLC, Eternal Night
+
+## [Arachnia Wiki](https://psychon-dev-studios.github.io/software/wiki/arachnia)
+Learn all about Arachnia, the newest game in the Arachnid Series
