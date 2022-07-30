@@ -38,13 +38,23 @@ Arachnia is a simple 2D platforming game. Jump from platform to platform, avoid 
 - Double jumping
 - Autosaving level progress
 - Manual saving of in-level progress
-- Adjustable graphics settings
+- Adjustable graphics settings. See below for a list of all settings and what they do.
 - Particles
 - Checkpoint system
 - **[TW]** Controller support
 
 Arachnia is still under active development. More features will be added in the future!
 
+### Settings
+Through the Advanced Settings menu option, you can fine-tune the game's settings, such as graphics. Most are self-explanatory, but we'll still provide a list of their functions:
+- Fancy Graphics: controls weather high-quality graphics that might affect performance are allowed
+- Particles: controls weather Arachnia will render particle effects. **Note: this does NOT disable particle generation, it only disables rendering**
+- Transitions: controls weather dialogues fade in and out. This also controls weather other types of transitions are allowed
+- Menu Transitions: controls weather menu features are animated or not
+- Transparency Effects: controls weather menus can be rendered as partially transparent or not
+- Particle Trails: controls weather the player generates a trail of particles. **Note: changing the Particles setting will NOT affect this setting!**
+
+- Save Progress: controls weather the game will save progress. When disabled, new data will not be written to the save file. **This setting is not preserved across reloads!**
 
 
 ### Known Bugs

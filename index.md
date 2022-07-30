@@ -26,7 +26,7 @@ _Looking for the wiki? Scroll to the bottom to see all wiki links!_
 
 
 ##### Individual game downloads
-[Arachna]() _no release candidate_
+[Arachna](https://psychon-dev-studios.github.io/software/downloads/) (v1.1.2)
 
 [[TW] Arachna 2: Eternal Night (A2 + DLC)](https://psychon-dev-studios.github.io/software/downloads/a2_dlc_1.1.0_tw.zip) _Includes both A2 and Eternal Night_
 
