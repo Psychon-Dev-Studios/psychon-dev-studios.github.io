@@ -65,3 +65,6 @@ Learn all about Arachna 2's DLC, Eternal Night
 
 ## [Arachnia Wiki](https://psychon-dev-studios.github.io/software/wiki/arachnia)
 Learn all about Arachnia, the newest game in the Arachnid Series
+
+## [CamX: Rebirth Wiki](https://psychon-dev-studios.github.io/software/wiki/cxr)
+Learn about the newest Psychon Dev project, CamX Rebirth
