@@ -47,14 +47,17 @@ CamX: Rebirth requires additional software to be installed on your device before
 **Note: if these commands don't work, try adding "python" before "pip" (making it look like ***"python pip install package"***)**
 
 ### Features
-- 7 officially-supported nights
-- Customizable controller support
+- 7 nights
+- Customizable controller support (advanced options)
 - Basic options changable through the settings menu
 - Advanced options for advanced users. [Learn more](https://psychon-dev-studios.github.io/software/blog/cxr_advanced_options)
+- Core features from FNaF (power, clock, doors, cameras)
+- Three main animatronics
+- Automatic updates (**work in progress**)
 
 CamX: Rebirth is still under active development. More features will be added in the future!
 
 
 ### Known Bugs
 
-There are currently no known bugs
+- Checksums don't work, **leading to them being disabled in all installations**
