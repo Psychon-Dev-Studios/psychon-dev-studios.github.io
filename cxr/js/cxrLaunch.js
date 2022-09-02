@@ -7,7 +7,7 @@ var mute = false
 
 function runAfterFinish() {
     setInterval(tickAfterFinish(), 1000)
-    document.getElementById("bg").style = "background-image: url('http://TABL-JHSS-80488/html/countdown_clocks/assets/cxrLogo.png'); width:1920px; height:1080; position:fixed; filter: opacity(0.2);background-position-x: left;background-position-y: top; animation: backgroundPulse; animation-duration: 5s; animation-iteration-count: infinite;animation-timing-function:ease-in-out"
+    document.getElementById("bg").style = "background-image: url('https://psychon-dev-studios.github.io/software/cxr/assets/cxrLogo.png'); width:1920px; height:1080; position:fixed; filter: opacity(0.2);background-position-x: left;background-position-y: top; animation: backgroundPulse; animation-duration: 5s; animation-iteration-count: infinite;animation-timing-function:ease-in-out"
 }
 
 function disablePulseEffect() {
@@ -36,7 +36,7 @@ function loadTimer() {
     document.getElementById("body").style = "background-color: black"
     document.getElementById("loadbutton").remove()
     loop.play()
-    document.getElementById("bg").style = "background-image: url('http://TABL-JHSS-80488/html/countdown_clocks/assets/cxrLogo.png'); width:1920px; height:1080; position:fixed; filter: opacity(0.2);background-position-x: left;background-position-y: top; animation: backgroundAnimation; animation-duration: 10s; animation-iteration-count: infinite;animation-timing-function:cubic-bezier(0.6, -0.28, 0.735, 0.045);z-index: -999"
+    document.getElementById("bg").style = "background-image: url('https://psychon-dev-studios.github.io/software/cxr/assets/cxrLogo.png'); width:1920px; height:1080; position:fixed; filter: opacity(0.2);background-position-x: left;background-position-y: top; animation: backgroundAnimation; animation-duration: 10s; animation-iteration-count: infinite;animation-timing-function:cubic-bezier(0.6, -0.28, 0.735, 0.045);z-index: -999"
 
     // document.getElementById("bg").style = "background-image: url('http://TABL-JHSS-80488/html/countdown_clocks/assets/cxrLogo.png'); width:1920px; height:1080; position:fixed; filter: opacity(0.2);background-position-x: left;background-position-y: top; animation: backgroundPulse; animation-duration: 5s; animation-iteration-count: infinite;animation-timing-function:ease-in-out"
 }
