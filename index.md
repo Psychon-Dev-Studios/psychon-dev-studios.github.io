@@ -33,6 +33,10 @@ _Looking for the wiki? Scroll to the bottom to see all wiki links!_
 [Arachnia]() _unreleased_
 
 
+##### Utility downloads
+[Shoutout](https://psychon-dev-studios.github.io/software/downloads/shoutout.zip) (v3.0)
+
+
 #### Learn about the different compiled builds
 
 You might have noticed that, especially with our newer games, some are marked as "**TW**" and others are marked as "**HFR**". This refers to how we turned it into a runnable file - we use two different techniques. Here are the differences:
