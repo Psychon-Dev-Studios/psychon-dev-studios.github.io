@@ -24,27 +24,27 @@ CamX: Rebirth requires additional software to be installed on your device before
 
 #### How to install Python:
 
-1) Open the Microsoft store (Start menu, then type "store")
-2) Search "Python". Make sure you either install **3.8** or **3.10**, as these are the versions that CamX: Rebirth has been tested on
-3) (Recommended, not required) Open powershell (Windows key + X, then click "Powershell"). Type "**pip install pywin32**" or "**python pip install pywin32**"
+1) Open the Microsoft store (Start menu, then type "store")\
+2) Search "Python". Make sure you either install **3.8** or **3.10**, as these are the versions that CamX: Rebirth has been tested on\
+3) (Recommended, not required) Open powershell (Windows key + X, then click "Powershell"). Type "**pip install pywin32**" or "**python pip install pywin32**"\
 
 #### How to install CamX: Rebirth
 
-1) Download the CamX: Rebirth package and unzip it. Make sure there are two files: **"install.pyw"** and **"cxr.dat"**.
-2) Run **install.pyw**. An installer window will appear after a couple of moments. Click the **"Install CamX: Rebirth"** button.
-3) Be patient and wait for installation to complete. You might have to re-run the installer if something goes wrong. **See note 1 below**.
-4) After installation completes, locate the **CamX Rebirth** icon on your desktop, and double-click it to run CamX: Rebirth
-5) Please be patient, CamX: Rebirth might have to install additional dependencies. If it does, it will ask for your permission to continue. **See note 2 below**
+1) Download the CamX: Rebirth package and unzip it. Make sure there are two files: **"install.pyw"** and **"cxr.dat"**.\
+2) Run **install.pyw**. An installer window will appear after a couple of moments. Click the **"Install CamX: Rebirth"** button.\
+3) Be patient and wait for installation to complete. You might have to re-run the installer if something goes wrong. **See note 1 below**.\
+4) After installation completes, locate the **CamX Rebirth** icon on your desktop, and double-click it to run CamX: Rebirth\
+5) Please be patient, CamX: Rebirth might have to install additional dependencies. If it does, it will ask for your permission to continue. **See note 2 below**\
 
 **[1]** If you didn't follow step 3 in **How to install Python**, the program will install pywin32 by itself. Because this requires Python to restart, the program will exit by itself, then re-open a moment later. You'll have to re-click the **Install CamX: Rebirth** button.
 
 **[2]** If you get the message **"Install Failed"**, CamX: Rebirth probably won't run. You'll have to manually install dependencies by following these steps:
 
-1) Open powershell (Windows key + x, then click "Powershell")
-2) Type "**pip install pygame**" and press enter
-3) Wait for the above install to finish. Type "**pip install pygame_widgets**" and press enter
-4) Wait for the above install to finish. Type "**pip install requests**" and press enter (***This is optional. You can avoid running this command, but you'll get the "Missing Dependency" warning on every startup if you don't install it***)
-**Note: if these commands don't work, try adding "python" before "pip" (making it look like ***"python pip install package"***)**
+1) Open powershell (Windows key + x, then click "Powershell")\
+2) Type "**pip install pygame**" and press enter\
+3) Wait for the above install to finish. Type "**pip install pygame_widgets**" and press enter\
+4) Wait for the above install to finish. Type "**pip install requests**" and press enter (***This is optional. You can avoid running this command, but you'll get the "Missing Dependency" warning on every startup if you don't install it***)\
+**Note: if these commands don't work, try adding "python" before "pip" (making it look like ***"python pip install package"***)**\
 
 ### Features
 - 7 nights
