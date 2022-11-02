@@ -1,0 +1,121 @@
+
+@keyframes tallMargin {
+  0% {margin: 1rem}
+  100% {margin: 3rem}
+}
+
+section {
+    padding: 1rem 1rem;
+    text-align: center;
+    color: gray;
+    font-family: system-ui;
+    min-width: 50%;
+    max-width: 600px;
+    margin: 1rem 0;
+    background: rgba(255,255,255,.025);
+    position: relative;
+  }
+
+  p {
+    color:azure
+  }
+  
+  section:has(img) {
+    padding: 0;
+    display: grid;
+    place-items: center;
+  }
+  section:has(img)::after {
+    content: 'Images need a container div';
+    position: absolute;  
+    padding: 1rem;
+    background: rgba(0,0,0,.5);
+    border-radius: 5px;
+    color: lightgray;
+  }
+  
+  code {
+    padding: .2rem;
+    background: #333;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 1rem 1rem;
+    border: 0;
+    color: dimgray;
+    border-radius: 5px;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    width: fit-content;
+    margin: 0 auto;
+    /* padding: 1rem 2rem; */
+    color: white;
+  }
+  
+  /* resets and basic page styling*/
+  body {
+    padding-top: 10px;
+    margin: 0;
+    /* padding: 0; */
+    background: #222;
+    /* min-height: 0vh; */
+    display: grid;
+    place-items: center;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+    display: none;
+  }
+  
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+:root {
+  scrollbar-width: none;
+}
+
+/* Spacers */
+small-space {padding: 3px}
+med-space {padding-left: 10px; padding-right: 10px}
+large-space {padding-left: 25px; padding-right: 25px}
+vert-space {display: block; padding: 15px; margin: 30px}
+small-vert-space {display: block; padding: 2px; margin: 5px}
+vsp {display: block; padding: 2px; margin: 5px}
+
+/* Links */
+a {color:beige;text-decoration:none;cursor:pointer}
+a:hover {color:thistle;text-decoration:underline;cursor:pointer}
+a:visited:hover {color:thistle;text-decoration:underline;cursor:pointer}
+a:visited {color:beige;text-decoration:none}
+
+#snow {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+  z-index: 1000;
+}
+
+.hideOnMobile {
+  /* Utility func */
+}
+
+p {
+  text-align:center;
+}

@@ -1,0 +1,56 @@
+#pageHeader {
+    background:rgb(44, 44, 44);
+    height:fit-content;
+    /* padding-bottom: 10px; */
+    display: flex;
+    width:99%;
+    padding: 20px 0;
+}
+
+headerLeft {
+    position:relative;
+    left: 15px;
+    display: inline-flex;
+    /* font-size: 1rem; */
+    color: white;
+    font: 1rem "Copperplate", fantasy;
+}
+
+headerRight {
+    position:relative;
+    /* margin-left: auto;  */
+    margin-right: 15px;
+    display: inline-flex;
+    /* font-size: 1rem; */
+    color: white;
+    font: 1rem "Copperplate", fantasy;
+}
+ah {color:beige;text-decoration:none;cursor:pointer}
+ah:hover {color:coral;text-decoration:underline;cursor:pointer}
+ah:visited:hover {color:coral;text-decoration:underline;cursor:pointer}
+ah:visited {color:beige;text-decoration:none}
+
+@media screen and (max-width: 700px) {
+    headerLeft {display:none}
+    .hideOnMobile {display:none}
+
+    headerRight {
+        position:relative;
+        /* margin-left: auto;  */
+        margin-left: 15px;
+        display: flex;
+        /* font-size: 1rem; */
+        color: white;
+        font: 1rem "Copperplate", fantasy;
+    }
+
+    #pageHeader {
+        background:rgb(44, 44, 44);
+        place-content: center;
+        height:fit-content;
+        /* padding-bottom: 10px; */
+        display: flex;
+        width:auto;
+        padding: 20px 150px;
+    }
+}
