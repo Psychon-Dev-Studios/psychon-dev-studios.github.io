@@ -102,6 +102,11 @@ a:hover {color:thistle;text-decoration:underline;cursor:pointer}
 a:visited:hover {color:thistle;text-decoration:underline;cursor:pointer}
 a:visited {color:beige;text-decoration:none}
 
+.depricated {color:rgb(142, 189, 61);text-decoration:none;cursor:pointer}
+.depricated:hover {color:rgb(162, 202, 93);text-decoration:underline;cursor:pointer}
+a:visited:hover {color:rgb(162, 202, 93);text-decoration:underline;cursor:pointer}
+.depricated:visited {color:rgb(142, 189, 61);text-decoration:none;cursor:pointer}
+
 #snow {
   position: fixed;
   top: 0;
