@@ -5,6 +5,8 @@ title: Software Center
 ## Psychon Development Studios - Software Center
 ##### Items marked with a * link to an external website
 
+**This is the classic site, which is _very old_. You can find the new site [here](https://psychon-dev-studios.github.io)**
+
 _Looking for the wiki? Scroll to the bottom to see all wiki links!_
 
 ##### Live versions
