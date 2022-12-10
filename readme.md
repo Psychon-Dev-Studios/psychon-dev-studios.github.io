@@ -8,3 +8,6 @@ We're in the process of rolling out the new site. Some things may not be fully w
 
 **MIGRATION UPDATE 1 (12/9/22)**\
 We are aware of the broken links on the classic site. This will be fixed soon-ish
+
+**MIGRATION UPDATE 2 (12/10/22)**\
+Most of the links on the classic site are fixed now
