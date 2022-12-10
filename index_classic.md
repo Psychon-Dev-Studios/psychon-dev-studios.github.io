@@ -48,7 +48,7 @@ You might have noticed that, especially with our newer games, some are marked as
 | **Feature** | **TW Builds** | **HFR Builds** |
  :-------------: | :-------------: | :-------------:  
  **Controller Support** | **Yes** | **No** 
- **Performance** | **Much better** | **Lower**
+ **Performance** | **~60-120 FPS** | **~30 FPS**
  **Stability** | **High** | **Medium**
  **Anti-Crash** | **Yes** | **No**
  **Native Builds** | **Yes [1]** | **HTML Only**
