@@ -88,6 +88,10 @@ body {
   scrollbar-width: none;
 }
 
+ol {
+  align-self:center;
+}
+
 /* Spacers */
 small-space {padding: 3px}
 med-space {padding-left: 10px; padding-right: 10px}
@@ -127,4 +131,50 @@ p {
 
 .alwaysHide {
   display:none;
+}
+
+
+/* Page alignment options */
+.sideAlignmentContainer {
+  /* Alignment class to contain .leftAlignmentCategoryBox and .rightAlignCategoryBox */
+  display: flex;
+  width:100%;
+}
+
+.leftAlignCategoryBox {
+  /* This is to split the site into HALF, partnered by .rightAlignCategoryBox */
+  width: 45%;
+  height: max-content; /* Can be overridden for other use cases. use <div class="leftAlignContent", style="height:<height>px!important>Content here</div> to override */
+  display: grid;
+  place-self: center start!important;
+  place-items: self-start legacy;
+  background: rgb(46, 46, 46);
+  /* padding:5px; */
+  margin-left:3%;
+  margin-right: 0px;
+  border:rgb(102, 102, 102) 1px solid;
+  border-radius:5px;
+
+}
+
+.rightAlignCategoryBox {
+  /* This is to split the site into HALF, partnered by .leftAlignCategoryBox */
+  width: 45%;
+  height:max-content; /* Can be overridden for other use cases. use <div class="leftAlignContent", style="height:<height>px!important>Content here</div> to override */
+  display: grid;
+  place-self: center middle!important;
+  place-items: self-start legacy;
+  background: rgb(46, 46, 46);
+  /* padding:5px; */
+  margin-right:3%;
+  margin-left:3%;
+  border:rgb(102, 102, 102) 1px solid;
+  border-radius:5px;
+
+}
+
+/* List styles */
+.projectName {
+  size:1.3rem;
+  color:aquamarine;
 }
