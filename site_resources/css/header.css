@@ -13,7 +13,7 @@ headerLeft {
     display: inline-flex;
     /* font-size: 1rem; */
     color: white;
-    font: 1rem "Copperplate", fantasy;
+    font: 1rem "Monaco";
 }
 
 headerRight {
@@ -23,7 +23,7 @@ headerRight {
     display: inline-flex;
     /* font-size: 1rem; */
     color: white;
-    font: 1rem "Copperplate", fantasy;
+    font: 1rem "Monaco";
 }
 ah {color:beige;text-decoration:none;cursor:pointer}
 ah:hover {color:coral;text-decoration:underline;cursor:pointer}
@@ -41,7 +41,7 @@ ah:visited {color:beige;text-decoration:none}
         display: flex;
         /* font-size: 1rem; */
         color: white;
-        font: 1rem "Copperplate", fantasy;
+        font: 1rem "Monaco";
     }
 
     #pageHeader {

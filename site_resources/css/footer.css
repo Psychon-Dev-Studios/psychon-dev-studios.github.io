@@ -15,7 +15,7 @@ footerLeft {
     display: inline-flex;
     /* font-size: 1rem; */
     color: white;
-    font: 0.8rem "Copperplate", fantasy;
+    font: 0.8rem Monaco
 }
 
 footerRight {
@@ -25,7 +25,7 @@ footerRight {
     display: inline-flex;
     /* font-size: 1rem; */
     color: white;
-    font: 0.8rem "Copperplate", fantasy;
+    font: 0.8rem Monaco
 }
 ah {color:beige;text-decoration:none;cursor:pointer}
 ah:hover {color:coral;text-decoration:underline;cursor:pointer}
@@ -43,7 +43,7 @@ ah:visited {color:beige;text-decoration:none}
         display: inline-flex;
         /* font-size: 1rem; */
         color: white;
-        font: 0.8rem "Copperplate", fantasy;
+        font: 0.8rem Monaco
     }
 
     #pageFooter {
