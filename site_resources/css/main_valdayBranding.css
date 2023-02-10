@@ -6,15 +6,15 @@ body {
  }
 
 section {
-    color: rgb(130, 8, 40)!important;
+    color: rgb(102, 8, 40)!important;
   }
 
 
 /* Links */
-a {color:#B51A3A!important;text-decoration:none;cursor:pointer}
-a:hover {color:#E48397!important;text-decoration:underline;cursor:pointer}
-a:visited:hover {color:#E48397!important;text-decoration:underline;cursor:pointer}
-a:visited {color:#B51A3A!important;text-decoration:none}
+a {color:#E48397!important;text-decoration:none;cursor:pointer}
+a:hover {color:#E4CDD3!important;text-decoration:underline;cursor:pointer}
+a:visited:hover {color:#E4CDD3!important;text-decoration:underline;cursor:pointer}
+a:visited {color:#E48397!important;text-decoration:none}
 
 
 /* Page Alignment */
@@ -26,4 +26,14 @@ a:visited {color:#B51A3A!important;text-decoration:none}
 .rightAlignCategoryBox {
   /* This is to split the site into HALF, partnered by .leftAlignCategoryBox */
   background: rgb(130, 8, 40)!important
+}
+
+/* Header */
+#pageHeader {
+    background:rgb(102, 8, 40)!important;
+}
+
+/* Footer */
+#pageFooter {
+    background:rgb(102, 8, 40)!important;
 }
