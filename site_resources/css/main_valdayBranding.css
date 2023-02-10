@@ -1,0 +1,29 @@
+/* Recoloring for Valentine's Day */
+
+/* General styling */
+body {
+    background: #5E081E!important;
+ }
+
+section {
+    color: rgb(130, 8, 40)!important;
+  }
+
+
+/* Links */
+a {color:#B51A3A!important;text-decoration:none;cursor:pointer}
+a:hover {color:#E48397!important;text-decoration:underline;cursor:pointer}
+a:visited:hover {color:#E48397!important;text-decoration:underline;cursor:pointer}
+a:visited {color:#B51A3A!important;text-decoration:none}
+
+
+/* Page Alignment */
+.leftAlignCategoryBox {
+  /* This is to split the site into HALF, partnered by .rightAlignCategoryBox */
+  background: rgb(130, 8, 40)!important
+}
+
+.rightAlignCategoryBox {
+  /* This is to split the site into HALF, partnered by .leftAlignCategoryBox */
+  background: rgb(130, 8, 40)!important
+}
