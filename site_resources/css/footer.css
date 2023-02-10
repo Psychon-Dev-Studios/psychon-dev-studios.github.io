@@ -1,14 +1,11 @@
 #pageFooter {
     background:rgb(44, 44, 44);
     height:fit-content;
-    /* padding-bottom: 10px; */
     display: flex;
-    /* position:fixed; */
     width:99%;
-/*     top:55.5rem; */
     padding: 20px 0;
     position: absolute;
-    bottom: 5px;
+    bottom: 10px!important;
     border-radius: 15px;
     transition:all;
     transition-duration:1s;
@@ -46,13 +43,12 @@ ah:visited {color:beige;text-decoration:none}
     #pageFooter {
         background:rgb(44, 44, 44);
         height:fit-content;
-        /* padding-bottom: 10px; */
         display: flex;
-        /* position:fixed; */
         width:auto;
         top:55.5rem;
         padding: 20px 1em;
         padding-right:1.4em;
         place-content: center;
+        bottom: 10px!important;
     }
 }

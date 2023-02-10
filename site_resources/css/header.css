@@ -51,7 +51,6 @@ ah:visited {color:beige;text-decoration:none}
         background:rgb(44, 44, 44);
         place-content: center;
         height:fit-content;
-        /* padding-bottom: 10px; */
         display: flex;
         width:auto;
         min-width: 10px;
