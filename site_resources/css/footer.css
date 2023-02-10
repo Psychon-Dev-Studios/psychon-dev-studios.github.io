@@ -5,8 +5,10 @@
     display: flex;
     /* position:fixed; */
     width:99%;
-    top:55.5rem;
+/*     top:55.5rem; */
     padding: 20px 0;
+    position: absolute;
+    bottom: 5px;
 }
 
 footerLeft {
