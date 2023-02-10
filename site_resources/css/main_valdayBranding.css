@@ -6,7 +6,7 @@ body {
  }
 
 section {
-    color: rgb(102, 8, 40)!important;
+    color: rgb(120, 8, 40)!important;
   }
 
 
@@ -30,10 +30,10 @@ a:visited {color:#E48397!important;text-decoration:none}
 
 /* Header */
 #pageHeader {
-    background:rgb(102, 8, 40)!important;
+    background:rgb(120, 8, 40)!important;
 }
 
 /* Footer */
 #pageFooter {
-    background:rgb(102, 8, 40)!important;
+    background:rgb(120, 8, 40)!important;
 }
