@@ -1,0 +1,47 @@
+
+
+/* Page alignment options */
+.getWlSection {
+    /* Alignment class to contain .leftAlignmentCategoryBox and .rightAlignCategoryBox */
+    display: flex;
+    width:auto;
+    background: rgba(0,0,0,.205);
+    padding: 1em 1em;
+    border-radius: 10px;
+  }
+  
+.getLeft {
+    /* This is to split the site into HALF, partnered by .rightAlignCategoryBox */
+    width: 30%;
+    height: fit-content; /* Can be overridden for other use cases. use <div class="leftAlignContent", style="height:<height>px!important>Content here</div> to override */
+    display: grid;
+    place-self: center top!important;
+    place-items: self-start normal;
+    margin-left:3%;
+    margin-right: 0px;
+    border-radius:5px;
+}
+  
+.getRight {
+    /* This is to split the site into HALF, partnered by .leftAlignCategoryBox */
+    width: 70%;
+    height: fit-content; /* Can be overridden for other use cases. use <div class="leftAlignContent", style="height:<height>px!important>Content here</div> to override */
+    display: grid;
+    place-self: center!important;
+    place-items: end;
+    margin-right:3%;
+    margin-left:3%;
+    border-radius:5px;
+  
+}
+
+.keyFeatures {
+    background: rgba(0,0,0,.205);
+    padding: 1em 2em;
+    border-radius: 10px;
+    align-content: space-around!important;
+    align-self:center;
+    /* display: flex; */
+    width:fit-content;
+    font-size:1.1em
+}

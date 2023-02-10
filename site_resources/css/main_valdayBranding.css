@@ -11,10 +11,10 @@ section {
 
 
 /* Links */
-a {color:#E48397!important;text-decoration:none;cursor:pointer}
+a {color:#ec97a8!important;text-decoration:none;cursor:pointer}
 a:hover {color:#E4CDD3!important;text-decoration:underline;cursor:pointer}
 a:visited:hover {color:#E4CDD3!important;text-decoration:underline;cursor:pointer}
-a:visited {color:#E48397!important;text-decoration:none}
+a:visited {color:#ec97a8!important;text-decoration:none}
 
 
 /* Page Alignment */
@@ -30,10 +30,10 @@ a:visited {color:#E48397!important;text-decoration:none}
 
 /* Header */
 #pageHeader {
-    background:rgb(120, 8, 40)!important;
+    background:rgb(130, 8, 40)!important;
 }
 
 /* Footer */
 #pageFooter {
-    background:rgb(120, 8, 40)!important;
+    background:rgb(130, 8, 40)!important;
 }

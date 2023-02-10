@@ -9,6 +9,9 @@
     padding: 20px 0;
     position: absolute;
     bottom: 5px;
+    border-radius: 15px;
+    transition:all;
+    transition-duration:1s;
 }
 
 footerLeft {
@@ -17,7 +20,7 @@ footerLeft {
     display: inline-flex;
     /* font-size: 1rem; */
     color: white;
-    font: 0.8rem Monaco
+    font: 1rem Monaco
 }
 
 footerRight {
@@ -27,7 +30,7 @@ footerRight {
     display: inline-flex;
     /* font-size: 1rem; */
     color: white;
-    font: 0.8rem Monaco
+    font: 1rem Monaco
 }
 ah {color:beige;text-decoration:none;cursor:pointer}
 ah:hover {color:coral;text-decoration:underline;cursor:pointer}
@@ -35,18 +38,10 @@ ah:visited:hover {color:coral;text-decoration:underline;cursor:pointer}
 ah:visited {color:beige;text-decoration:none}
 
 @media screen and (max-width: 700px) {
-    /* footerLeft {display:none;} */
-    .hideOnMobile {display:none}
-    
-    footerRight {
-        position:relative;
-        margin-left: 15px; 
-        /* margin-right: 15px; */
-        display: inline-flex;
-        /* font-size: 1rem; */
-        color: white;
-        font: 0.8rem Monaco
-    }
+    footerRight {display:none;}
+    .hideOnMobile {display:none;padding:none;margin:none;width:0px}
+
+    footerLeft {width: 100%!important;padding:none;}
 
     #pageFooter {
         background:rgb(44, 44, 44);
@@ -54,9 +49,10 @@ ah:visited {color:beige;text-decoration:none}
         /* padding-bottom: 10px; */
         display: flex;
         /* position:fixed; */
-        width:99%;
+        width:auto;
         top:55.5rem;
-        padding: 20px 0;
+        padding: 20px 1em;
+        padding-right:1.4em;
         place-content: center;
     }
 }

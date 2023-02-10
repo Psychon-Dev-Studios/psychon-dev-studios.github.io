@@ -5,6 +5,9 @@
     display: flex;
     width:99%;
     padding: 20px 0;
+    border-radius: 15px;
+    transition:all;
+    transition-duration:1s;
 }
 
 headerLeft {
@@ -31,8 +34,8 @@ ah:visited:hover {color:coral;text-decoration:underline;cursor:pointer}
 ah:visited {color:beige;text-decoration:none}
 
 @media screen and (max-width: 700px) {
-    headerLeft {display:none}
-    .hideOnMobile {display:none}
+    headerLeft {filter:opacity(0);transition:all;transition-duration:1s;display:none}
+    .hideOnMobile {width:0px;transition:all;transition-duration:1s}
 
     headerRight {
         position:relative;
@@ -51,6 +54,9 @@ ah:visited {color:beige;text-decoration:none}
         /* padding-bottom: 10px; */
         display: flex;
         width:auto;
+        min-width: 10px;
         padding: 20px 150px;
+        transition:all;
+        transition-duration:1s;
     }
 }
