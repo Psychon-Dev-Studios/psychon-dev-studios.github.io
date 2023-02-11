@@ -34,7 +34,7 @@ ah:hover {color:coral;text-decoration:underline;cursor:pointer}
 ah:visited:hover {color:coral;text-decoration:underline;cursor:pointer}
 ah:visited {color:beige;text-decoration:none}
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 850px) {
     footerRight {display:none;}
     .hideOnMobile {display:none;padding:none;margin:none;width:0px}
 
