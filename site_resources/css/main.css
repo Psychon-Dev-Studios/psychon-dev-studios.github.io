@@ -61,6 +61,7 @@ button:hover {
   border-radius: 5px;
   transition: all;
   transition-duration: 0.5s;
+  cursor:pointer!important
 }
   
   img {
