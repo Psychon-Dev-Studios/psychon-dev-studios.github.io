@@ -2,7 +2,7 @@
 
 Make sure you have all of the following:
 - A USB drive (8 GB or larger)
-- An [Ubuntu Disk image](https://releases.ubuntu.com/lunar/ubuntu-23.04-desktop-amd64.iso) - This needs to end up on your Kano somehow
+- An [Ubuntu Disk image](https://releases.ubuntu.com/lunar/ubuntu-23.04-desktop-amd64.iso) - This needs to end up on your Kano somehow. I suggest just putting it on the USB drive and copying it to the Kano's internal storage once you get to the desktop bit
 - [Visual Studio Code, x64 User Mode](https://code.visualstudio.com/download) installed on your school laptop
 - Kano connected to power and wifi
 
