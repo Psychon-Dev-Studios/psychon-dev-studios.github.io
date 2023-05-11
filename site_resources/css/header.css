@@ -1,3 +1,5 @@
+@import '/site_resources/css/vars.css';
+
 #pageHeader {
     background:rgb(44, 44, 44);
     height:fit-content;
@@ -16,7 +18,8 @@ headerLeft {
     display: inline-flex;
     /* font-size: 1rem; */
     color: white;
-    font: 1rem "Monaco";
+    /* font: 1rem "Monaco"; */
+    font: 1rem 'Merriweather Sans', sans-serif;
 }
 
 headerRight {
@@ -26,7 +29,8 @@ headerRight {
     display: inline-flex;
     /* font-size: 1rem; */
     color: white;
-    font: 1rem "Monaco";
+    /* font: 1rem "Monaco"; 
+    font: 1rem 'Merriweather Sans', sans-serif;*/
 }
 ah {color:beige;text-decoration:none;cursor:pointer}
 ah:hover {color:coral;text-decoration:underline;cursor:pointer}
