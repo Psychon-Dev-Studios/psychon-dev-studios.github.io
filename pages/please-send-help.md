@@ -2,8 +2,8 @@
 
 Make sure you have all of the following:
 - A USB drive (8 GB or larger)
-- An (Ubuntu Disk image)[https://releases.ubuntu.com/lunar/ubuntu-23.04-desktop-amd64.iso] - This needs to end up on your Kano somehow
-- (Visual Studio Code, x64 User Mode)[https://code.visualstudio.com/download] installed on your school laptop
+- An [Ubuntu Disk image](https://releases.ubuntu.com/lunar/ubuntu-23.04-desktop-amd64.iso) - This needs to end up on your Kano somehow
+- [Visual Studio Code, x64 User Mode](https://code.visualstudio.com/download) installed on your school laptop
 - Kano connected to power and wifi
 
 ## Gaining Remote Access
@@ -11,7 +11,7 @@ Make sure you have all of the following:
 Since you don't have a monitor, you're going to need to set up remote access.
 
 *If you already installed Visual Studio Code, skip to step 3*
-1. Download (Visual Studio Code)[https://code.visualstudio.com/download]. You'll want the x64 Windows User-Installer version
+1. Download [Visual Studio Code](https://code.visualstudio.com/download). You'll want the x64 Windows User-Installer version
 2. Run the .exe, follow the installation directions. Make sure you do NOT disable the startup shortcut
 3. Open Visual Studio Code. At the top of the screen, find **Terminal**. Click it, then click **New Terminal**
 4. If you haven't already, plug in your Kano. ***It will need 3-5 minutes to boot up, do not continue until it finishes***
