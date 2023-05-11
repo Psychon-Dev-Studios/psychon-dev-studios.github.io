@@ -93,6 +93,10 @@ Once it finishes, close Microsoft Remote Desktop. In the Visual Studio Code term
 19. Enter the account details you want. Leave "Use Active Directory" **unchecked**
 20. Select the theme you want. The installer may freeze for a second. Click Next
 21. Wait for the installation to finish, then hit Restart now
-22. Grub should be the default bootloader now. If it isn't, you can boot into Ubuntu by hitting Enter at the prompt, then F12, then select UBUNTU
+22. Grub should be the default bootloader now. If it isn't:
+    1. Restart your laptop
+    2. On the "Press enter to inturrupt startup", press **ENTER**
+    3. Press **F12**
+    4. In the list that shows up, select **ubuntu**
 
 Enjoy your new Ubuntu installation!
