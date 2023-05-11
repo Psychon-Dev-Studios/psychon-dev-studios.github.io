@@ -74,7 +74,7 @@ Once it finishes, close Microsoft Remote Desktop. In the Visual Studio Code term
 
 1. Shut down your laptop completely
 2. Connect the USB Disk and power the laptop on
-3. On the "Press ENTER to inturrupt startup" screen, hit ENTER until it beeps and dumps into the boot device menu
+3. On the "Press ENTER to inturrupt startup" screen, hit ENTER until it beeps, then F12 until it dumps into the boot device menu
 4. Select your USB drive
 5. In the Grub menu, use the arrow keys to highlight **Try or Install Ubuntu** and hit enter
 6. Wait for Ubuntu to boot. When it asks, hit "Install Ubuntu"
