@@ -36,12 +36,12 @@
 }
 
 .keyFeatures {
-    background: rgba(0,0,0,.205);
+    /* background: rgba(0,0,0,.205); */
     padding: 1em 2em;
     border-radius: 10px;
-    align-content: space-around!important;
-    align-self:center;
+    /* align-content: space-around!important; */
+    /* align-self:center; */
     /* display: flex; */
     width:fit-content;
-    font-size:1.1em
+    font-size:1em
 }

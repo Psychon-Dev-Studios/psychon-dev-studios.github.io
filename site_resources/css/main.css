@@ -125,10 +125,6 @@ body {
   scrollbar-width: none;
 }
 
-ol {
-  align-self: center;
-}
-
 /* Spacers */
 small-space {
   padding: 3px;
@@ -258,8 +254,9 @@ p {
 
 /* List styles */
 .projectName {
-  size: 1.3rem;
+  size: 0.8rem;
   color: aquamarine;
+  text-align:left
 }
 
 /* Header styles */
