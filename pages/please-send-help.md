@@ -46,9 +46,53 @@ Now, *on your Windows PC*, open the Microsoft Store. Find **Microsoft Remote Des
 1. In the upper-right corner of the app, click **Add**, then click **PCs**
 2. In **Formal Name**, type **kano.local**
 3. Click the **+** next to **User Account**
-4. Under **Username**, type **yourKanoUsernameHere@kano.local**
+4. Under **Username**, type in your Kano username
 5. Under **Password**, type in your Kano password
 6. Set the display name to whatever you like, then hit **Save**
 7. In the **User Account** dropdown, select the account you just made
 8. Hit SAVE
 9. Click on the PC icon to connect. Hooray, you have desktop access now!!
+
+## Flash USB
+
+Now we can FINALLY start flashing your USB drive! If you have any data on the drive, **please back it up**
+
+1. Connect your USB Drive to your Kano
+2. Double-check it's detected: in a terminal, type `ls /media/yourKanoUsername/`. If the output is not empty, the drive was detected
+3. Start Raspberry Pi Imager
+4. Hit **Choose OS**. In the list, scroll down and click "Use local/custom image"
+5. In the popup, change the file search type from **.img** to **Any**
+6. Navigate to where the Ubuntu ISO file is. Double-click it to choose it
+7. Click **Choose SD Card** and select your USB Drive
+8. Click **WRITE**. This will write the image to the disk.
+
+This process can take quite a long time, especially on really slow devices like a Kano
+
+Once it finishes, close Microsoft Remote Desktop. In the Visual Studio Code terminal, make sure you're still connected to the Kano and type `sudo shutdown now` to safely power the board off. Disconnect power and the USB disk after it finishes shutting down.
+
+## Install Ubuntu
+
+1. Shut down your laptop completely
+2. Connect the USB Disk and power the laptop on
+3. On the "Press ENTER to inturrupt startup" screen, hit ENTER until it beeps and dumps into the boot device menu
+4. Select your USB drive
+5. In the Grub menu, use the arrow keys to highlight **Try or Install Ubuntu** and hit enter
+6. Wait for Ubuntu to boot. When it asks, hit "Install Ubuntu"
+7. Select English (US) and hit Next
+8. Select **I don't want to connect to the internet just yet** and hit Next
+9. Select **Normal Installation**. Make sure both checkboxes **ARE NOT CHECKED**
+10. Select **Manual Partitioning** and hit Next
+11. Find and select **nvme0n1p5** and hit Change
+12. Leave the size, type, and location alone.
+13. Set "Use as" to **Ext4** or **Ext4 journaling file system**
+14. Check **Format Partition** if it isn't already checked
+15. Set "Mount Point" to **/**
+16. Hit OK
+17. Make sure "Device for bootloader installation" is **nvme0n1**
+18. Select the correct timezone and hit Next
+19. Enter the account details you want. Leave "Use Active Directory" **unchecked**
+20. Select the theme you want. The installer may freeze for a second. Click Next
+21. Wait for the installation to finish, then hit Restart now
+22. Grub should be the default bootloader now. If it isn't, you can boot into Ubuntu by hitting Enter at the prompt, then F12, then select UBUNTU
+
+Enjoy your new Ubuntu installation!
