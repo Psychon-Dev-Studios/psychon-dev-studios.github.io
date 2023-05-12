@@ -44,7 +44,7 @@ Unfortunately, you will need to be able to access the desktop to use Raspbery Pi
 Now, *on your Windows PC*, open the Microsoft Store. Find **Microsoft Remote Desktop** and install it. Once it's installed, open it and follow these steps to connect to your Kano:
 
 1. In the upper-right corner of the app, click **Add**, then click **PCs**
-2. In **Formal Name**, type **kano.local**
+2. In **Formal Name**, type `kano.local`
 3. Click the **+** next to **User Account**
 4. Under **Username**, type in your Kano username
 5. Under **Password**, type in your Kano password
