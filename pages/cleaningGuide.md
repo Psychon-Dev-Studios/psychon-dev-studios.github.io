@@ -3,6 +3,8 @@
 You should follow these instructions regardless of what you've done to your laptop. These steps will be different depending on what browser you use.
 If you use Firefox or another browser, skip to step 5
 
+If you intend to continue using your laptop (E.G. if it isn't the last day of school yet) you should not complete this section yet
+
 1. Close Chrome and Edge
 2. Navigate to `C:/Users/<username>/AppData/Local/Google/Chrome/User Data` for Chrome or `C:/Users/<username>/AppData/Local/Microsoft/Edge/User Data`
 3. Delete every file and folder in that folder
